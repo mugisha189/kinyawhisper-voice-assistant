@@ -153,6 +153,6 @@ Upload your own `.wav` files into the `audio/` folder or record with `bach_main.
 
 ## 👤 Author
 
-**HIRWA Rukundo Hope**  
-Email: gakundohope5@gmail.com  
-GitHub: [@hrh2](https://github.com/hrh2)
+**Mugisha Yves**  
+Email: mugishayves189000@gmail.com  
+GitHub: [@mugisha189](https://github.com/mugisha189)

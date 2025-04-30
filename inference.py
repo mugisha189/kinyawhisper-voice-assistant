@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-BY HIRWA
+
 inference.py
 
 Performs transcription on all audio2 samples in a directory using a fine-tuned Whisper model.

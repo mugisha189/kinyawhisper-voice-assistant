@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-BY HIRWA
+
 train.py
 
 Fine-tunes OpenAI's Whisper model for Kinyarwanda ASR on a custom dataset.
